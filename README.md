@@ -20,6 +20,8 @@
 - [Ethe2 Resources](https://docs.prylabs.network/docs/reading/eth2/)
 - [randao](https://github.com/randao/randao)
 - [一文搞懂可验证延迟函数 VDF](https://mp.weixin.qq.com/s/U9nqQM9qUtqywPehx85Fmg)
+- [Long Range Attacks](https://www.researchgate.net/publication/331313599_A_Survey_on_Long-Range_Attacks_for_Proof_of_Stake_Protocols)
+- [长程攻击(Long Range Attack)](http://www.5bite.com/post/7973.html)
 ## 签名
 - [Schnorr签名方案和BLS签名方案的全面对比](https://www.8btc.com/article/359642)
 
