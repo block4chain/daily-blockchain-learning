@@ -15,7 +15,11 @@
 ### eth2.0
 - [规范](https://github.com/ethereum/eth2.0-specs)
 - [信标链](https://www.panewslab.com/zh/articledetails/N9092166.html)
-
+- [以太坊2.0:信标链验证者的旅程](https://zhuanlan.zhihu.com/p/110202061)
+- [Ethereum RNG solution](https://medium.com/taipei-ethereum-meetup/ethereum-rng-randao-vdf-bb6b3b4b957d)
+- [Ethe2 Resources](https://docs.prylabs.network/docs/reading/eth2/)
+- [randao](https://github.com/randao/randao)
+- [一文搞懂可验证延迟函数 VDF](https://mp.weixin.qq.com/s/U9nqQM9qUtqywPehx85Fmg)
 ## 签名
 - [Schnorr签名方案和BLS签名方案的全面对比](https://www.8btc.com/article/359642)
 
